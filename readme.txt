@@ -1,1 +1,1 @@
-Archivo readme para trabajar con git
+Archivo readme para trabajar con git y probar su funcionamiento
