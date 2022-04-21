@@ -6,4 +6,5 @@ En el archivo collectTweetsPsn.py defina los medios a analizar en la variable ti
 
 ## Prerrequisitos: 
 - Python 3.x
-- API académica de Twitter. Puede solicitarla aquí: https://developer.twitter.com/en/products/twitter-api/academic-research
+- API de Twitter. Se recomienda gestionar la versión académica la cual puede solicitarla aquí: https://developer.twitter.com/en/products/twitter-api/academic-research
+- Configurar el bearer token del API en el archivo /tweet_collect/tools.py
